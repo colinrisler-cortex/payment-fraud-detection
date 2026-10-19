@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "payment-fraud-detection"
+  x-cortex-tag: "payment-fraud-detection"
+  x-cortex-description: "Real-time transaction fraud scoring"
+  x-cortex-owners:
+    - type: group
+      name: "Cart & Checkout Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001204"
+    apm_name: "Checkout & Payments Platform"
+    cost_center: "CC-4211"
